@@ -6,11 +6,11 @@
 
 1) Format and install windows. Use like 70% of your drive for it.
 
-2) You'll have 3-4 partitions. [fat32(EFI)]/[NTFS(Big)]/[idk(Recovery]/[]
+2) You'll have 3-4 partitions post-install. [fat32(EFI)]/[NTFS(Big)]/[idk(Recovery]/[]
 
-3) Don't fucking touch those, and don't let Linux touch those. I mean it, don't.
+3) Don't fucking touch those partitions, and don't let Linux touch those. I mean it, don't.
 
-4) Boot Linux and open Gparted. If you don't have Gparted, you should think 'is it us that has forgotten god, or god that has forgotten us?'
+4) Boot Linux and open Gparted. If you don't have Gparted, you should consider 'is it us that has forgotten god, or god that has forgotten us?'
 
 5) On that 30% extra create [Fat32-512MB]/[linuxswap-2GB(Optional)]/[EXT4-24GB/remainder of drive)
 
